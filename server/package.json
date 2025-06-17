@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "TeleHelp is a MERN stack web application that allows users to find and book sessions with experts in various fields (e.g., tutors, counselors, consultants). It features JWT-based authentication for users and experts, real-time chat via Socket.io, secure payments through Stripe, and expert availability management. Built with React, Node.js, Express, and MongoDB, the platform also includes role-based access control, email confirmations, and a scalable backend API architecture.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "express",
+    "mongodb",
+    "booking",
+    "expert",
+    "jwt"
+  ],
+  "author": "Asim Nazir",
+  "license": "ISC"
+}
